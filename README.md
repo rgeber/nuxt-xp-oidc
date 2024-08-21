@@ -11,4 +11,6 @@ Tested with:
 
 Check `nuxt.config.ts` for configuration options.
 
+> Change the URLs to fit your authentik (or other oidc) provider.
+
 Basic usage is showcased in `pages/index.vue` and `pages/auth/login.vue`
